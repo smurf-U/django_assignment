@@ -9,7 +9,7 @@ Use below username and password
 
 ## How to Use 
 
-- **Custome Command**
+- **Custom Command**
 
 ```python
 ./manage.py createpartner <Number of recored want to create>
