@@ -7,7 +7,15 @@ Use below username and password
 >**Username/password** :- **admin/admin**
 
 
-## How to Use REST
+## How to Use 
+
+- **Custome Command**
+
+```python
+./manage.py createpartner <Number of recored want to create>
+```
+
+- **REST API**
 
 **GET request**
 
