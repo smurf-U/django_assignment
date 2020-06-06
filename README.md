@@ -17,7 +17,7 @@ Use below username and password
 
 - **REST API**
 
-**GET request**
+    **GET request**
 
 ```python
 import requests, json, pprint
