@@ -1,6 +1,5 @@
 # Django Assignment
-
-[Click here](https://djangoass.herokuapp.com) to demo site. 
+ 
 
 Use below username and password
 
