@@ -1,6 +1,5 @@
 # Django Assignment
  
-
 Use below username and password
 
 >**Username/password** :- **admin/admin**
